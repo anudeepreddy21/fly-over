@@ -1,0 +1,13 @@
+{"Application":[
+    {"applicationid":"5408811","studentid":"82411","status":"pending"},
+    {"applicationid":"5408821","studentid":"82421","status":"rejected"},
+    {"applicationid":"5408831","studentid":"82431","status":"accepted"},
+    {"applicationid":"5408841","studentid":"82441","status":"accepted"},
+    {"applicationid":"5408851","studentid":"82451","status":"accepted"},
+    {"applicationid":"5408861","studentid":"82461","status":"accepted"},
+    {"applicationid":"5408871","studentid":"82471","status":"accepted"},
+    {"applicationid":"5408881","studentid":"82481","status":"accepted"},
+    {"applicationid":"5408891","studentid":"82491","status":"accepted"},
+    {"applicationid":"5408801","studentid":"82401","status":"accepted"}
+]    
+}

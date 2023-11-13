@@ -1,0 +1,11 @@
+.groupHeader {
+  position: "sticky";
+  top: -8px;
+  padding: 10px 10px;
+  color: rgb(86, 86, 86);
+  font-size: 14px;
+}
+.groupItems {
+  padding: 0;
+  padding-left: 10px;
+}

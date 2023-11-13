@@ -1,0 +1,30 @@
+[
+  {
+    "company": "Amazon",
+    "projectName": "Online Shopping System",
+    "description": "This is a demo project from Amazon which is specially designed for students.",
+    "duration": 6,
+    "date": ""
+  },
+  {
+    "company": "Apple",
+    "projectName": "Apple Music",
+    "description": "This is a demo project from Apple which is specially designed for students.",
+    "duration": 12,
+    "date": ""
+  },
+  {
+    "company": "Google",
+    "projectName": "Let's make everything",
+    "description": "This is a demo project from Google which is specially designed for students.",
+    "duration": 15,
+    "date": ""
+  },
+  {
+    "company": "Meta",
+    "projectName": "Social Media System",
+    "description": "This is a demo project from Meta which is specially designed for students.",
+    "duration": 8,
+    "date": ""
+  }
+]

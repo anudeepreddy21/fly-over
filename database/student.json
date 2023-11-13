@@ -1,0 +1,15 @@
+{"student":
+[
+ {"studentId":1, "name": "abc", "interests": ["Data Science, Machine Learning"], "resumeURL":"https://"},
+ {"studentId":2, "name": "def", "interests": ["UX", "Frontend"], "resumeURL":"https://"},
+ {"studentId":3, "name": "xyz", "interests": ["UX", "HCI"], "resumeURL":"https://"},
+ {"studentId":4, "name": "jkl", "interests": ["Fullstack"], "resumeURL":"https://"},
+ {"studentId":5, "name": "mno", "interests": ["Security"], "resumeURL":"https://"},
+ {"studentId":6, "name": "pqr", "interests": ["Data Engineering", "Backend"], "resumeURL":"https://"},
+ {"studentId":7, "name": "uvw", "interests": ["Devops", "Network Infrastructure"], "resumeURL":"https://"},
+ {"studentId":8, "name": "lmn", "interests": ["Data Engineering", "Data Science, Machine Learning"], "resumeURL":"https://"},
+ {"studentId":9, "name": "qwe", "interests": ["Backend", "Database Engineering"], "resumeURL":"https://"},
+ {"studentId":10, "name": "asd", "interests": ["Network Infrastructure", "Security"], "resumeURL":"https://"}
+ ]
+}
+

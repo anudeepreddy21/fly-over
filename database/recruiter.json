@@ -1,0 +1,15 @@
+{"recruiter":
+[
+ {"recruiterId":1, "company": "Nutanix", "interests": ["Data Science, Machine Learning"]},
+ {"recruiterId":2, "company": "Amazon", "interests": ["Backend", "Database Engineering"]},
+ {"recruiterId":3, "company": "Meta", "interests": ["Devops", "Network Infrastructure"]},
+ {"recruiterId":4, "company": "Apple", "interests": ["UX", "HCI"]},
+ {"recruiterId":5, "company": "Google", "interests": ["Backend", "Frontend"]},
+ {"recruiterId":6, "company": "Bloomberg", "interests": ["Security"]},
+ {"recruiterId":7, "company": "Netflix", "interests": ["Network Infrastructure", "Security"]},
+ {"recruiterId":8, "company": "Palantir", "interests": ["UX", "Frontend"]},
+ {"recruiterId":9, "company": "Databricks", "interests": ["Data Engineering", "Backend"]},
+ {"recruiterId":10, "company": "Splunk", "interests": ["UI", "HCI"]}
+ ]
+}
+

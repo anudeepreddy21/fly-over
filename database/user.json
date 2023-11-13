@@ -1,0 +1,17 @@
+{"user":
+[
+ {"userId":1, "name": "abc", "email": "abc@gmail.com", "password": "xyz123456", "phone":1234567890},
+ {"userId":2, "name": "def", "email": "def@gmail.com", "password": "def123678", "phone":3513897646},
+ {"userId":3, "name": "jkl", "email": "sample@gmail.com", "password": "jkl123456", "phone":4624765895},
+ {"userId":4, "name": "qwe", "email": "qwe@gmail.com", "password": "qwe123456", "phone":9084721737},
+ {"userId":5, "name": "xyz", "email": "xyz@gmail.com", "password": "xyz123456", "phone":8620814571},
+ {"userId":6, "name": "lmn", "email": "lmn@gmail.com", "password": "lmn123456", "phone":5614321897},
+ {"userId":7, "name": "uvw", "email": "uvw@gmail.com", "password": "uvw123456", "phone":6512349078},
+ {"userId":8, "name": "demo", "email": "demo@gmail.com", "password": "demo123456", "phone":9098734631},
+ {"userId":9, "name": "rst", "email": "rst@gmail.com", "password": "rst123456", "phone":9988215678},
+ {"userId":10, "name": "hij", "email": "hij@gmail.com", "password": "hij123456", "phone":7650135213}
+ ]
+}
+
+
+

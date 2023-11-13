@@ -1,0 +1,2 @@
+# helps to avoid pushing the unwanted files on github
+node_modules

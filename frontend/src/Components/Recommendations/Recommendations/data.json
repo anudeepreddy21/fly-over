@@ -1,0 +1,227 @@
+[
+  {
+    "title": "Kubernates",
+    "subheader": "Software Engineering",
+    "price": "0",
+    "description": {
+      "skills you will gain": "Continuous Delivery, Kubernetes, Jenkins (Software)",
+      "rating ": "*5(124 ratings) (24k views)",
+      "level": "Advanced",
+      "duration": "30 hours - Course Only",
+      "community": "https://kubernetes.io/community/"
+    },
+    "buttonText": "Enroll for free",
+    "buttonVariant": "contained",
+    "link": "https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana"
+  },
+  {
+    "title": "Application Development",
+    "subheader": "Software Engineering",
+    "price": "0",
+    "description": {
+      "skills you will gain": "Build Automation, application programming, Object-Oriented Programming (OOP), Computer Programming, Python Programming, numeric operators, Agile ",
+      "rating ": "*4.3(46 ratings) (24k views)",
+      "level": "Beginner",
+      "duration ": "45 hours - Certification Provided",
+      "community ": "https://dev.to/t/app"
+    },
+    "buttonText": "Enroll for free",
+    "buttonVariant": "contained",
+    "link": "https://www.coursera.org/specializations/beginning-application-developer#courses"
+  },
+  {
+    "title": "SDLC Specialization",
+    "subheader": "Software Engineering",
+    "price": "19.99",
+    "description": {
+      "skills you will gain": "Agile Software Development, Software Development Process, Scrum (Software Development), Software Architecture, Software Development Kit (SDK), Software Testing ",
+      "rating ": "*4.6(1,963 ratings) (14k views)",
+      "level": "Intermediate",
+      "duration": "64 hours - Certification Provided",
+      "community ": ""
+    },
+    "buttonText": "Enroll",
+    "buttonVariant": "contained",
+    "link": "https://www.coursera.org/specializations/software-development-lifecycle"
+  },
+  {
+    "title": "Backend Developer Certification",
+    "subheader": "Software Engineering",
+    "price": "59.99",
+    "description": {
+      "skills you will gain": "Cloud Hosting,Application Programming Interfaces (API),Python Programming,Data Structure, Django (Web Framework), Github, Bash (Unix Shell)",
+      "rating ": "*4.7(1,407 ratings) (32k views)",
+      "level": "Beginner",
+      "duration ": "192 hours - Professional Certification Provided",
+      "community ": ""
+    },
+    "buttonText": "Enroll",
+    "buttonVariant": "contained",
+    "link": "https://www.coursera.org/professional-certificates/meta-back-end-developer"
+  },
+  {
+    "title": "Innovating with Data and Google Cloud",
+    "subheader": "Data Analytics with AI and ML",
+    "price": "0",
+    "description": {
+      "skills you will gain": "Describe the role of data in digital transformation and the importance of a data-driven culture, Identify common Google Cloud solution for smart analytics, Identify Google Cloud’s solutions for Machine Learning and AI ",
+      "rating ": "*4.8(551 ratings) (45k views)",
+      "level": "Beginner",
+      "duration ": "2 hours - Certification Provided",
+      "community ": ""
+    },
+    "buttonText": "Enroll for free",
+    "buttonVariant": "contained",
+    "link": "https://www.coursera.org/learn/innovating-with-data-google-cloud"
+  },
+  {
+    "title": "Applied Data Science Specialization",
+    "subheader": "Data Analytics with AI and ML",
+    "price": "0",
+    "description": {
+      "skills you will gain": "Data Science, Python Programming, Data Visualization (DataViz), Pandas, NumPy, Keras, Predictive Modelling   ",
+      "rating ": "*4.6(6,651 ratings) (12k views)",
+      "level": "Beginner",
+      "duration ": "72 hours - Certification Provided",
+      "community ": "https://www.datacommunitydc.org/about "
+    },
+    "buttonText": "Enroll for free",
+    "buttonVariant": "contained",
+    "link": "https://www.coursera.org/specializations/applied-data-science"
+  },
+  {
+    "title": "Deep Learning Specialization",
+    "subheader": "Data Analytics with AI and ML",
+    "price": "99.99",
+    "description": {
+      "skills you will gain": "Artificial Neural Network, Convolutional Neural Network, Tensor Flow, Recurrent Neural Network, Backpropagation, Python Programming, hyperparameter tuning, Mathematical Optimization   ",
+      "rating ": "*4.9(1,26,651 ratings) (309k views)",
+      "level": "Intermediate",
+      "duration ": "160 hours - Certification Provided",
+      "community ": "https://community.deeplearning.ai/login "
+    },
+    "buttonText": "Enroll",
+    "buttonVariant": "contained",
+    "link": "https://www.coursera.org/specializations/deep-learning"
+  },
+  {
+    "title": "AI Workflow: Feature Engineering",
+    "subheader": "Data Analytics with AI and ML",
+    "price": "0",
+    "description": {
+      "skills you will gain": "Data Science, Python Programming, Information Engineering, Artificial Intelligence (AI)",
+      "rating ": "*4.3(65 ratings) (4k views)",
+      "level": "Advanced",
+      "duration ": "160 hours - Certification Provided",
+      "community ": ""
+    },
+    "buttonText": "Enroll for free",
+    "buttonVariant": "contained",
+    "link": "https://www.coursera.org/learn/ibm-ai-workflow-feature-engineering-bias-detection"
+  },
+  {
+    "title": "IBM Cybersecurity Analyst",
+    "subheader": "Cyber Security",
+    "price": "0",
+    "description": {
+      "skills you will gain": "IBM New Collar, Malware, information security analyst, Cyber Attacks,database vulnerabilities, Sql Injection, Junior cybersecurity analyst ",
+      "rating ": "*4.6(8,103 ratings) (96k views)",
+      "level": "Beginner",
+      "duration ": "128 hours - Professional Certification Provided",
+      "community ": "https://community.ibm.com/community/user/security/home "
+    },
+    "buttonText": "Enroll for free",
+    "buttonVariant": "contained",
+    "link": "https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst"
+  },
+  {
+    "title": "Web Security in Embedded Systems",
+    "subheader": "Cyber Security",
+    "price": "0",
+    "description": {
+      "skills you will gain": "Public-Key Cryptography, Cyber Security, Cryptography",
+      "rating ": "*4.5(64 ratings) (13k views)",
+      "level": "Intermediate",
+      "duration ": "12 hours -  Certification Provided",
+      "community ": ""
+    },
+    "buttonText": "Enroll for free",
+    "buttonVariant": "contained",
+    "link": "https://www.coursera.org/learn/iot-connectivity-security"
+  },
+  {
+    "title": "Data, Security, and Privacy",
+    "subheader": "Cyber Security",
+    "price": "0",
+    "description": {
+      "skills you will gain": "Protecting Data, digital literacy, Evaluating IT Security Risk, Cyber Security Planning",
+      "rating ": "*4.3(11 ratings) (6k views)",
+      "level": "Intermediate",
+      "duration ": "13 hours -  Certification Provided",
+      "community ": ""
+    },
+    "buttonText": "Enroll for free",
+    "buttonVariant": "contained",
+    "link": "https://www.coursera.org/learn/data-security-privacy"
+  },
+  {
+    "title": "Principles of UX/UI Design",
+    "subheader": "UX Design and HCI",
+    "price": "0",
+    "description": {
+      "skills you will gain": "Web Design, Front-End Web Development, User Experience (UX), Accessibility",
+      "rating ": "*4.0(5 ratings) (10k views)",
+      "level": "Beginner",
+      "duration ": "23 hours -  Course Only",
+      "community ": ""
+    },
+    "buttonText": "Enroll for free",
+    "buttonVariant": "contained",
+    "link": "https://www.coursera.org/learn/principles-of-ux-ui-design"
+  },
+  {
+    "title": "Graduate Certificate in UX Design and HCI",
+    "subheader": "UX Design and HCI",
+    "price": "1500",
+    "description": {
+      "skills you will gain": "User Experience, User Interface, Wireframe Design, Figma, Human Computer Interaction, A/B testing",
+      "rating ": "*4.3(1200 ratings) (26k views)",
+      "level": "Intermediate",
+      "duration ": "168 hours -  Certification Provided",
+      "community": ""
+    },
+    "buttonText": "Enroll",
+    "buttonVariant": "contained",
+    "link": "https://www.coursera.org/certificates/ux-design-human-computer-interaction-iitguwahati"
+  },
+  {
+    "title": "Get Started with Figma",
+    "subheader": "UX Design and HCI",
+    "price": "0",
+    "description": {
+      "skills you will gain": "User Interface Design (UI Design), Web Design, Design Pattern, Design Thinking, Application Design",
+      "rating ": "*4.3(203 ratings) (16k views)",
+      "level": "Beginner",
+      "duration ": "1.5 hours -  Course Only",
+      "community": "https://blog.uxtweak.com/top-ux-communities-and-groups/#reddit-1 "
+    },
+    "buttonText": "Enroll for free",
+    "buttonVariant": "contained",
+    "link": "https://www.coursera.org/projects/get-started-figma"
+  },
+  {
+    "title": "Wireframes to Prototypes",
+    "subheader": "UX Design and HCI",
+    "price": "0",
+    "description": {
+      "skills you will gain": "Sketch, Adobe XD, Adobe Illustrator, HTML/CSS, Balsamiq",
+      "rating ": "*4.9(711 ratings) (49k views)",
+      "level": "Intermediate",
+      "duration ": "41 hours -  Certification Provided",
+      "community ": ""
+    },
+    "buttonText": "Enroll for free",
+    "buttonVariant": "contained",
+    "link": "https://www.coursera.org/learn/web-design-wireframes-prototypes"
+  }
+]
